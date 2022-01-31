@@ -22,9 +22,9 @@ const App = {
 					<div>hello</div>
 					<div>hello</div>
 					<stack class="mt-10">
+						<div>haa</div>
 						<div>hello</div>
-						<div>hello</div>
-			</stack>
+					</stack>
 				</stack>
 			</stack>
 		`
